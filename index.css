@@ -51,10 +51,10 @@ body{
 }
 
 .price{
-	grid-column: 1 / 4;
+	grid-column: 2 / 3;
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
-	grid-gap: 40px;
+	grid-gap: 140px;
 	margin-top: 3em;
 }
 
