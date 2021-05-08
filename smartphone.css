@@ -42,6 +42,7 @@ body{
 	font-family: 'Roboto Slab', serif;
 	font-weight: 800;
 	font-size: 1.05em;
+	font-style: oblique 5deg;
 	list-style-type: none;
 	opacity: 0.6;
 	line-height: 1.1em;
@@ -52,7 +53,6 @@ body{
 }
 
 .hero ul li .point{
-	font-style: oblique 5deg;
 	color: #4f70b4;
 	font-size: 1.11em;
 }
